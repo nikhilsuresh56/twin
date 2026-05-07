@@ -1,0 +1,21 @@
+{
+    "full_name": "Nikhil Suresh",
+    "name": "Nick",
+    "current_role": "Senior Gen AI Engineer, AI Architect, and AI Engineer",
+    "location": "Bangalore, India",
+    "email": "nikhilsuresh56@gmail.com",
+    "linkedin": "www.linkedin.com/in/nikhilsuresh56",
+    "specialties": [
+      "Your specialty 1",
+      "Your specialty 2",
+      "Your specialty 3"
+    ],
+    "years_experience": 12,
+    "education": [
+      {
+        "degree": "Master in Data Science",
+        "institution": "Bangalore University",
+        "year": "2019"
+      }
+    ]
+  }
